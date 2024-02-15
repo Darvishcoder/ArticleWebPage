@@ -1,0 +1,42 @@
+.Heading{
+    color:rgb(74, 147, 135);
+    font-size: 40px;
+    font-weight: bold;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 150px;
+}
+#Social{
+        color:rgb(235, 35, 35);
+        font-weight:bold;
+        font-size:20px ;     
+}
+#Social_media{
+    font-size: 15px;
+}
+#impact{
+    font-size:20px ;
+    color: chocolate;
+    font-weight: bold;
+}
+
+#cons,#pros{
+    font-size: 25px;
+    color: rgb(232, 64, 64);
+    font-weight: bold;
+}
+
+h3{
+    font-weight: bold;
+}
+.content0,.content1,.content2,.content3{
+    font-style: italic;
+    font-size: 18px;
+}
+.imge {
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    
+}
